@@ -1,0 +1,9 @@
+router_url = "http://192.168.123.1/RST_st_poe.htm"
+router_username = "admin"
+router_password = "admin"
+
+inwx_url = "https://api.domrobot.com/xmlrpc/"
+inwx_username = "batman"
+inwx_password = "ultr4s3cr3tp4ssw0rd!"
+inwx_dnsid = "123456790"
+
